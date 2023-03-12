@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ojnilib.LibraryTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-03-12T11:16:40" hostname="DESKTOP-5T54INB" time="0.013">
+  <properties/>
+  <testcase name="someLibraryMethodReturnsTrue()" classname="ojnilib.LibraryTest" time="0.013"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
